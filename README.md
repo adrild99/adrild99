@@ -1,16 +1,36 @@
-## Hi there 👋
+Bienvenido! 👋
 
-<!--
-**adrild99/adrild99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+En este perfil GitHub podrás explorar proyectos que he ido desarrollando, tanto de principiante como de profesional (aun en construcción). Tengo un perfil híbrido por mis estudios en ADE por lo que puede que encuentres de todo un poco.
+Busco desarrollar al máximo mis habilidades por lo que si quieres que colaboremos y me ayudes a buscar nuevos retos contacta conmigo en la vía que prefieras.
 
-Here are some ideas to get you started:
+🚀Desarrollador Web con visión de Negocio
+Soy un perfil híbrido: **Graduado en ADE** elevando mi carrera con el **Desarrollo Web**.
+Combino la capacidad analítica y de gestión del mundo empresarial con la lógica de programación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Formación académica:**
+  - Actualmente cursando **DAW** (Desarrollo de Aplicaciones Web).
+  - Graduado en **ADE** por la UCLM.
+- 🏊 **Resiliencia:** Realicé la **Piscina de 42 Madrid** (26 días intensivos de programación en C y Shell).
+- 💼 **Background:** Mi base de graduado en Administración de Empresas me permite entender el producto desde la perspectiva de negocio y usuario final.
+---
+
+### 🛠️ Stack Tecnológico
+**Web & Apps:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Bases de Datos:**
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-Database-orange?style=for-the-badge&logo=database&logoColor=white)
+
+**Lógica & Sistemas (42 Methodology):**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Herramientas & Análisis:**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![SPSS](https://img.shields.io/badge/SPSS-Data_Analysis-blue?style=for-the-badge&logo=ibm&logoColor=white)
+
+---
+
+### 📈 Mis objetivos
+Estoy buscando oportunidades donde pueda aportar tanto picando código como entendiendo la lógica de negocio detrás de la aplicación.
+
+- 🔭 Trabajando en: Ejercicios avanzados de Java y buenas prácticas.
+- 📫 Contacto: [adrild999@gmail.com](mailto:adrild999@gmail.com) | [LinkedIn](https://www.linkedin.com/in/adrián-lozano)
