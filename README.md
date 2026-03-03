@@ -1,17 +1,17 @@
-Bienvenido! 👋
+Bienvenido!
 
-En este perfil GitHub podrás explorar proyectos que he ido desarrollando, tanto de principiante como de profesional (aun en construcción). Tengo un perfil híbrido por mis estudios en ADE por lo que puede que encuentres de todo un poco.
-Busco desarrollar al máximo mis habilidades por lo que si quieres que colaboremos y me ayudes a buscar nuevos retos contacta conmigo en la vía que prefieras.
+En este perfil GitHub podrás explorar proyectos que he ido desarrollando, tanto de principiante como de profesional (aun en construcción). Tengo un perfil híbrido por mis estudios en ADE por lo que puede que encuentres también proyectos enfocados a negocios, finanzas o incluso banca.
+Con estas ideas lo que busco es poder desarrollar mis habilidades por lo que si quieres que colaboremos y ayudarnos a conseguir nuevos retos contacta conmigo en la vía que prefieras.
 
-🚀Desarrollador Web con visión de Negocio
-Soy un perfil híbrido: **Graduado en ADE** elevando mi carrera con el **Desarrollo Web**.
-Combino la capacidad analítica y de gestión del mundo empresarial con la lógica de programación.
+Me identifico como un desarrollador Web con visión de Negocio
+Soy un perfil híbrido: **Graduado en ADE** elevando mis conocimientos con el **Desarrollo Web**.
+Combino la capacidad analítica y de gestión del mundo empresarial con la lógica y la resolución de problemas.
 
-- 🎓 **Formación académica:**
+- En cuanto a la **Formación académica:**
   - Actualmente cursando **DAW** (Desarrollo de Aplicaciones Web).
   - Graduado en **ADE** por la UCLM.
-- 🏊 **Resiliencia:** Realicé la **Piscina de 42 Madrid** (26 días intensivos de programación en C y Shell).
-- 💼 **Background:** Mi base de graduado en Administración de Empresas me permite entender el producto desde la perspectiva de negocio y usuario final.
+  - **Resiliencia:** Realicé la **Piscina de 42 Madrid** (26 días intensivos de programación en C y Shell).
+  - **Background:** Mi base de graduado en Administración de Empresas me permite entender el producto desde la perspectiva de negocio y usuario final.
 ---
 
 ### 🛠️ Stack Tecnológico
@@ -29,7 +29,7 @@ Combino la capacidad analítica y de gestión del mundo empresarial con la lógi
 
 ---
 
-### 📈 Mis objetivos
+###En cuanto a mis objetivos:
 Estoy buscando oportunidades donde pueda aportar tanto picando código como entendiendo la lógica de negocio detrás de la aplicación.
 
 - 🔭 Trabajando en: Ejercicios avanzados de Java y buenas prácticas.
