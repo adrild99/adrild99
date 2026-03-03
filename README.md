@@ -14,7 +14,7 @@ Combino la capacidad analítica y de gestión del mundo empresarial con la lógi
   - **Background:** Mi base de graduado en Administración de Empresas me permite entender el producto desde la perspectiva de negocio y usuario final.
 ---
 
-### 🛠️ Stack Tecnológico
+### Stack Tecnológico
 **Web & Apps:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -29,8 +29,8 @@ Combino la capacidad analítica y de gestión del mundo empresarial con la lógi
 
 ---
 
-###En cuanto a mis objetivos:
+### En cuanto a mis objetivos:
 Estoy buscando oportunidades donde pueda aportar tanto picando código como entendiendo la lógica de negocio detrás de la aplicación.
 
-- 🔭 Trabajando en: Ejercicios avanzados de Java y buenas prácticas.
-- 📫 Contacto: [adrild999@gmail.com](mailto:adrild999@gmail.com) | [LinkedIn](https://www.linkedin.com/in/adrián-lozano)
+- Trabajando en: Ejercicios avanzados de Java y buenas prácticas.
+- Contacto: [adrild999@gmail.com](mailto:adrild999@gmail.com) | [LinkedIn](https://www.linkedin.com/in/adrián-lozano)
